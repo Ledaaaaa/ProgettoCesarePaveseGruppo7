@@ -1,8 +1,8 @@
 <libraries>
   <library
-      name="__local_aars__:/Users/ledafregoni/Downloads/ProgettoCesarePavese-main/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
-      jars="/Users/ledafregoni/Downloads/ProgettoCesarePavese-main/build/app/intermediates/flutter/release/libs.jar"
-      resolved="__local_aars__:/Users/ledafregoni/Downloads/ProgettoCesarePavese-main/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
+      name="__local_aars__:/Users/ledafregoni/Desktop/ProgettoCesarePaveseGruppo7/build/app/intermediates/flutter/release/libs.jar:unspecified@jar"
+      jars="/Users/ledafregoni/Desktop/ProgettoCesarePaveseGruppo7/build/app/intermediates/flutter/release/libs.jar"
+      resolved="__local_aars__:/Users/ledafregoni/Desktop/ProgettoCesarePaveseGruppo7/build/app/intermediates/flutter/release/libs.jar:unspecified"/>
   <library
       name="io.flutter:flutter_embedding_release:1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49@jar"
       jars="/Users/ledafregoni/.gradle/caches/modules-2/files-2.1/io.flutter/flutter_embedding_release/1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49/1cda5084e256ef9070e38a93a384bbefc72f6f2/flutter_embedding_release-1.0.0-3f3e560236539b7e2702f5ac790b2a4691b32d49.jar"
