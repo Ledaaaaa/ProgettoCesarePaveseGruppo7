@@ -63,9 +63,10 @@ class _HomePageState extends State<HomePage> {
                               fontWeight: FontWeight.bold),
                           children: <TextSpan>[
                             TextSpan(
-                                text: ' ${widget.name},',
+                                text: ' ${widget.name}',
                                 style: const TextStyle(
                                     fontSize: 36, color: primaryColorCP)),
+                            const TextSpan(text: ',')
                           ]),
                     ),
                     const Text(titFondCesPav, style: TextStyle(fontSize: 30)),
