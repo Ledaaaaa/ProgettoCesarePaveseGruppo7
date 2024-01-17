@@ -1,0 +1,4 @@
+#Wed Jan 17 12:31:08 CET 2024
+base.0=/Users/ledafregoni/Downloads/ProgettoCesarePavese-main/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

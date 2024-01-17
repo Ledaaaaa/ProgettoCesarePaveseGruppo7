@@ -1,0 +1,4 @@
+#Wed Jan 17 13:06:08 CET 2024
+base.0=/Users/ledafregoni/Downloads/ProgettoCesarePavese-main/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
